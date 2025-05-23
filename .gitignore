@@ -1,3 +1,4 @@
 .vscode
 build
 alignment.txt
+*.pdf
